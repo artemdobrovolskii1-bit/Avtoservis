@@ -1,0 +1,11 @@
+Model Information:
+* title:	LADA 112 (2112)
+* source:	https://sketchfab.com/3d-models/lada-112-2112-6fb13a7366ac44bb962003096e163f49
+* author:	Rinl98 (https://sketchfab.com/Rinl98)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LADA 112 (2112)" (https://sketchfab.com/3d-models/lada-112-2112-6fb13a7366ac44bb962003096e163f49) by Rinl98 (https://sketchfab.com/Rinl98) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
